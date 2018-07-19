@@ -1,0 +1,11 @@
+C:\Users\Dattr\source\repos\getdata\getdata\bin\Debug\getdata.exe.config
+C:\Users\Dattr\source\repos\getdata\getdata\bin\Debug\getdata.exe
+C:\Users\Dattr\source\repos\getdata\getdata\bin\Debug\getdata.pdb
+C:\Users\Dattr\source\repos\getdata\getdata\obj\Debug\getdata.csprojAssemblyReference.cache
+C:\Users\Dattr\source\repos\getdata\getdata\obj\Debug\getdata.csproj.CoreCompileInputs.cache
+C:\Users\Dattr\source\repos\getdata\getdata\obj\Debug\getdata.exe
+C:\Users\Dattr\source\repos\getdata\getdata\obj\Debug\getdata.pdb
+C:\Users\Dattr\source\repos\getdata\getdata\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dattr\source\repos\getdata\getdata\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dattr\source\repos\getdata\getdata\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Dattr\source\repos\getdata\getdata\obj\Debug\getdata.csproj.CopyComplete
